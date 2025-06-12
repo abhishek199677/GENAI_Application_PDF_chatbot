@@ -1,0 +1,7 @@
+pdfplumber
+faiss-cpu
+requests
+numpy 
+streamlit
+langchain
+# pip install -U langchain-community
